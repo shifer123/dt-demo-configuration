@@ -335,6 +335,7 @@
   <constants>Constant.ТолькоЗащищеннаяАутентификацияSMTP</constants>
   <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
@@ -364,6 +365,7 @@
   <catalogs>Catalog.ИсходящиеПисьма</catalogs>
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
+  <catalogs>Catalog.Справочник</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
