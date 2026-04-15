@@ -364,12 +364,14 @@
   <catalogs>Catalog.ИсходящиеПисьма</catalogs>
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.ПриходТовара</documents>
   <documents>Document.РасходТовара</documents>
+  <documents>Document.Документ</documents>
   <documentJournals>DocumentJournal.ДокументыПродаж</documentJournals>
   <documentJournals>DocumentJournal.ФинансовыеДокументы</documentJournals>
   <enums>Enum.ВидыТоваров</enums>
@@ -380,6 +382,7 @@
   <enums>Enum.СостоянияЗаказов</enums>
   <enums>Enum.НазначениеХарактеристик</enums>
   <enums>Enum.ИспользоватьПровайдерГеопозиционирования</enums>
+  <enums>Enum.Перечисление</enums>
   <reports>Report.ВзаимосвязьПродажТоваров</reports>
   <reports>Report.ДашбордПродажи</reports>
   <reports>Report.ДинамикаПродаж</reports>
